@@ -13,15 +13,16 @@ PC: Mac Book Air M1<br>
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+### Pythonのインストール
+```bash
+brew install python
+```
+
 ### pipの確認
 ```bash
 pip --version
 ```
 
-### Pythonのインストール
-```bash
-brew install python
-```
 ### NumPy, Scikit-Learn, matplotlib, japanize-matplotlib, scipyのインストール
 ```bash
 pip install numpy scikit-learn matplotlib japanize-matplotlib scipy 
