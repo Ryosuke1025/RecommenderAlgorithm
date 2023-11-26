@@ -13,7 +13,7 @@ PC: Mac Book Air M1<br>
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### pipの確認(Pythonのパッケージマネージャーであるpipは, Pythonと一緒にインストールされているはずです)
+### pipの確認
 ```bash
 pip --version
 ```
