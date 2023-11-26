@@ -4,10 +4,15 @@
 本研究では, 決定木を用いた飲食店推薦アルゴリズムを評価しました.
 
 ## 実行環境(参考)
-PC: Mac Book Air M1<br>
-テキストエディタ: [Visual Studio Code](https://code.visualstudio.com)
+- PC: Mac Book Air M1
+- ソフトウェア: [Jupyter Notebook](https://jupyter.org)
+- テキストエディタ: [Visual Studio Code](https://code.visualstudio.com)
 
-## 必要なインストール
+## VScodeでJupyter Notebookを使う場合
+以下を参照して環境構築を行なって下さい
+- [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+
+## その他必要なインストール
 ### Homebrewのインストール
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
