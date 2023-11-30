@@ -32,3 +32,7 @@ pip --version
 ```bash
 pip install numpy scikit-learn matplotlib japanize-matplotlib scipy 
 ```
+
+## フォルダ説明
+*Restaurants*: 飲食店情報及び取得<br>
+*Users*: ユーザーの評価情報及び取得
