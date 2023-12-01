@@ -36,4 +36,4 @@ pip install numpy scikit-learn matplotlib japanize-matplotlib scipy
 ## フォルダ及びファイル説明
 - [Restaurants](https://github.com/Ryosuke1025/RecommenderAlgorithm/tree/main/Restaurants): 飲食店情報及び取得, [GetFeatures.ipynb](https://github.com/Ryosuke1025/RecommenderAlgorithm/blob/main/Restaurants/GetFeatures.ipynb)はAPIから情報を取得するコードを含んでいるため, 必ず実行しないようにして下さい.<br>
 - [Users](https://github.com/Ryosuke1025/RecommenderAlgorithm/tree/main/Users): ユーザーの評価情報及び取得
-- [Recommender.ipynb](https://github.com/Ryosuke1025/RecommenderAlgorithm/tree/main/Recommender.ipynb): メインプログラムで, こちらのファイルのみを実行するようにして下さい
+- [Recommender.ipynb](https://github.com/Ryosuke1025/RecommenderAlgorithm/tree/main/recommender.ipynb): メインプログラムで, こちらのファイルのみを実行するようにして下さい
