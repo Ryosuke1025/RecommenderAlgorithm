@@ -35,5 +35,5 @@ pip install numpy scikit-learn matplotlib japanize-matplotlib scipy
 
 ## フォルダ及びファイル説明
 - *Restaurants*: 飲食店情報及び取得, [GetFeatures.ipynb](https://github.com/Ryosuke1025/RecommenderAlgorithm/blob/main/Restaurants/GetFeatures.ipynb)はAPIから情報を取得するコードを含んでいるため, 必ず実行しないようにして下さい.<br>
-- *Users*: ユーザーの評価情報及び取得
-- *Recommender.ipynb*: メインプログラムで, こちらのファイルのみを実行するようにして下さい
+- Users: ユーザーの評価情報及び取得
+- Recommender.ipynb: メインプログラムで, こちらのファイルのみを実行するようにして下さい
