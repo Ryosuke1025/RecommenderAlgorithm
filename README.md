@@ -1,5 +1,9 @@
 # 決定木を用いた飲食店推薦アルゴリズムの提案
 
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white">
+
 ## 概要
 本研究では, 決定木を用いた飲食店推薦アルゴリズムを評価しました.
 
